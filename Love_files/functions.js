@@ -53,9 +53,9 @@ function timeElapse(date) {
 		secs = '0' + secs;
 	}
 	var result =
-		'Días <span class="digit">' +
+		'<span class="digit">' +
 		days +
-		'</span>, <span class="digit">' +
+		'</span> días, <span class="digit">' +
 		hours +
 		'</span> horas, <span class="digit">' +
 		minutes +
